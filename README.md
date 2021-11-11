@@ -15,6 +15,9 @@ Este processo executará um processo para cada arquivo.
     ```
     path_download = '<path>/download'
     ```
+- Instale librerias
+    > $ python3 -m pip install bs4
+    > $ python3 -m pip install requests
 - run download
     > $ python3 download.py
 
