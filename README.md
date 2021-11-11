@@ -1,5 +1,4 @@
 [![Me pague um ☕ ](https://img.shields.io/badge/Buy%20me%20a%20%E2%98%95%20-%20Patreon%20-yellowgreen)](https://www.patreon.com/bePatron?u=46149384 "Paga um café para nos")
-<a href="https://www.patreon.com/bePatron?u=46149384" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 [![Github](https://img.shields.io/badge/creator-alexyucra-red)](https://github.com/diggleweb)
 
 # Novo Layout para os DADOS ABERTOS do CNPJ
